@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://condescending-knuth-30610d.netlify.app/
